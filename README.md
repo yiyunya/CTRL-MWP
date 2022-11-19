@@ -1,8 +1,7 @@
-# [Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems.](https://arxiv.org/abs/2209.10310)
+# Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems.
 Shen Y.*, Liu Q.*, Mao Z., Wan Z., Cheng F., Sadao K. (2022)
 
-
-This paper has been accepted for publication in *AACL-IJCNLP 2022*. 
+This paper has been accepted for publication in *AACL-IJCNLP 2022* and could be found [here](https://arxiv.org/abs/2209.10310)
 
 To solve Math Word Problems, human students leverage diverse reasoning logic that reaches different possible equation solutions. However, the mainstream sequence-to-sequence approach of automatic solvers aims to decode a fixed solution equation supervised by human annotation. In this paper, we propose a controlled equation generation solver by leveraging a set of control codes to guide the model to consider certain reasoning logic and decode the corresponding equations expressions transformed from the human reference. The empirical results suggest that our method universally improves the performance on single-unknown (Math23K) and multiple-unknown (DRAW1K, HMWP) benchmarks, with substantial improvements up to 13.2% accuracy on the challenging multiple-unknown datasets.
 
