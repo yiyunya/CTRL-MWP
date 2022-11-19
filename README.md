@@ -50,19 +50,11 @@ If you find this repo useful, please cite the following paper:
 ```
 @misc{https://doi.org/10.48550/arxiv.2209.10310,
   doi = {10.48550/ARXIV.2209.10310},
-  
   url = {https://arxiv.org/abs/2209.10310},
-  
   author = {Shen, Yibin and Liu, Qianying and Mao, Zhuoyuan and Wan, Zhen and Cheng, Fei and Kurohashi, Sadao},
-  
   keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
   title = {Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems},
-  
   publisher = {arXiv},
-  
   year = {2022},
-  
-  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
