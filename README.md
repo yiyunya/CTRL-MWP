@@ -1,5 +1,5 @@
 # Seeking Diverse Reasoning Logic: Controlled Equation Expression Generation for Solving Math Word Problems.
-Shen Y.*, Liu Q.*, Mao Z., Wan Z., Cheng F., Sadao K. (2022)
+Shen Y.\*, Liu Q.\*, Mao Z., Wan Z., Cheng F., Kurohashi S. (2022)
 
 This paper has been accepted for publication in *AACL-IJCNLP 2022*.
 
